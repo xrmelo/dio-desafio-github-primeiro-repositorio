@@ -9,5 +9,10 @@ $ git status
 Para add novos arquivos e pastas
 $ git add .
 
-Para comitar alterações 
+Para comitar alterações localmente 
 $ git commit -m "Comentario"
+
+Para publicar no site
+$git push origin main
+
+
