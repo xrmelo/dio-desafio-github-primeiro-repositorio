@@ -1,0 +1,13 @@
+Download
+https://git-scm.com/downloads
+
+Comandos
+
+Para ver o status
+$ git status
+
+Para add novos arquivos e pastas
+$ git add .
+
+Para comitar alterações 
+$ git commit -m "Comentario"
