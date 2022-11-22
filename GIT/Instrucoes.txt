@@ -1,18 +1,16 @@
-Download
+>> Download
 https://git-scm.com/downloads
 
 Comandos
 
-Para ver o status
+>> Para ver o status
 $ git status
 
-Para add novos arquivos e pastas
+>> Para add novos arquivos e pastas
 $ git add .
 
-Para comitar alterações localmente 
+>> Para comitar alterações localmente 
 $ git commit -m "Comentario"
 
-Para publicar no site
-$git push origin main
-
-
+>> Para publicar no site
+$ git push origin main
